@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PagerPillTab</string>
+    <string name="app_intro_usp_1_title">hello</string>
+    <string name="app_intro_usp_1_body">Here</string>
+    <string name="app_intro_usp_2_title">hello2</string>
+    <string name="app_intro_usp_2_body">here2</string>
+    <string name="app_intro_usp_3_title">hello3</string>
+    <string name="app_intro_usp_3_body">here3</string>
+    <string name="app_intro_usp_4_title">hello4</string>
+    <string name="app_intro_usp_4_body">hello4</string>
+</resources>

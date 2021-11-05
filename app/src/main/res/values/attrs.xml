@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PageIndicatorView">
+        <attr name="dotsColor" format="color" />
+        <attr name="selectedDotColor" format="color" />
+        <attr name="dotsSize" format="dimension" />
+        <attr name="dotsWidthFactor" format="float"/>
+        <attr name="dotsSpacing" format="dimension"/>
+        <attr name="dotsCornerRadius" format="dimension"/>
+        <attr name="progressMode"  format="boolean" />
+        <attr name="dotsClickable" format="boolean"/>
+        <attr name="dotsElevation" format="dimension"/>
+    </declare-styleable>
+
+</resources>
